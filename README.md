@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a dedicated researcher pursuing my PhD in Computational Material Science at the University of Central Florida, specializing in the innovative application of artificial intelligence in nanotechnology and material science. With a strong blend of technical expertise and a keen business acumen, I thrive on tackling complex problems and delving into their multifaceted dimensions.
+
+My primary research involves the development of neural network potentials for molecular dynamics and kinetic Monte Carlo simulations, leveraging my extensive knowledge in Quantitative Analysis, Statistical Data Science, Computational Physics, Computational Modeling, Predictive Analytics, and advanced neural network techniques. I am also deeply committed to harnessing artificial intelligence for environmental sustainability by exploring applications in CO2 reduction and reducing the computational power requirements for standard Density Functional Theory (DFT) calculations.
+
+My proficiency extends to time-series analysis and forecasting, where I employ methodologies such as AR, ARIMA, and deep learning to extract valuable insights from data. As an accomplished Teaching Assistant with a track record of excellence in higher education, I have had the privilege of instructing both graduate and undergraduate courses at the University of Central Florida.
+
+I hold a Master's degree with a focus on computational nuclear and particle physics from the National and Kapodistrian University of Athens. I am passionate about the convergence of science, technology, and education, and I'm excited to contribute my expertise and drive innovation in the dynamic world of computational material science and artificial intelligence
+
 <!--
 **theodorosP/theodorosP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
