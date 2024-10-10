@@ -2,7 +2,7 @@
 
 I am a PhD Candidate pursuing my PhD in Computational Material Science at the University of Central Florida, specializing in developing Machine Learning algorithms  for nanotechnology and material design. 
 
-I worked at ASML Silicon Valley as a Modeling Product Engineer Intern, where I developed computational methods for photomask optimization in photomask development.
+I worked at ASML Silicon Valley as a Modeling Product Engineer Intern, where I developed computational methods for photomask optimization, enhancing simulations for pre-silicon fabrication processes.
 
 My PhD research focuses on developing  Deep Learning Clasifiers, Neural Networks, for molecular dynamics and kinetic Monte Carlo simulations, enhancing simulations for semiconductor fabrication processes and epitaxial metal growth on semiconductors. I am also modeling the CO2 reduction reaction to carbon monoxide and formate using simulations. Additionally, I am committed to designing machine learning algorithms to explore applications of CO2 reduction reactions while reducing the computational power required for standard Density Functional Theory (DFT) calculations.
 
