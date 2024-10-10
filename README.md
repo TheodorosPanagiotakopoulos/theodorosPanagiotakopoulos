@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am a dedicated researcher pursuing my PhD in Computational Material Science at the University of Central Florida, specializing in the innovative application of artificial intelligence in nanotechnology and material science. With a strong blend of technical expertise and a keen business acumen, I thrive on tackling complex problems and delving into their multifaceted dimensions.
+I am a PhD Candidate pursuing my PhD in Computational Material Science at the University of Central Florida, specializing in developing Machine Learning algorithms  for nanotechnology and material design. 
 
-My primary research involves the development of neural network potentials for molecular dynamics and kinetic Monte Carlo simulations, leveraging my extensive knowledge in Quantitative Analysis, Statistical Data Science, Computational Physics, Computational Modeling, Predictive Analytics, and advanced neural network techniques. I am also deeply committed to harnessing artificial intelligence for environmental sustainability by exploring applications in CO2 reduction and reducing the computational power requirements for standard Density Functional Theory (DFT) calculations.
+I worked at ASML Silicon Valley as a Modeling Product Engineer Intern, where I developed computational methods for photomask optimization in photomask development.
+
+My PhD research focuses on developing  Deep Learning Clasifiers, Neural Networks, for molecular dynamics and kinetic Monte Carlo simulations, enhancing simulations for semiconductor fabrication processes and epitaxial metal growth on semiconductors. I am also modeling the CO2 reduction reaction to carbon monoxide and formate using simulations. Additionally, I am committed to designing machine learning algorithms to explore applications of CO2 reduction reactions while reducing the computational power required for standard Density Functional Theory (DFT) calculations.
 
 My proficiency extends to time-series analysis and forecasting, where I employ methodologies such as AR, ARIMA, and deep learning to extract valuable insights from data. As an accomplished Teaching Assistant with a track record of excellence in higher education, I have had the privilege of instructing both graduate and undergraduate courses at the University of Central Florida.
 
