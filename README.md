@@ -20,5 +20,7 @@ I have worked as a **teaching assistant** at the University of Central Florida, 
 
 ## Education
 
+- **PhD in Computational Material Science** from the University of Central Florida.
 - **Master's degree in Physics** from the University of Central Florida, focused on computational material design.
 - **Master's degree** from the National and Kapodistrian University of Athens, with a focus on computational physics.
+
