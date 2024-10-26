@@ -4,7 +4,9 @@ I am a PhD Candidate pursuing my PhD in Computational Material Science at the Un
 
 I worked at ASML Silicon Valley as a Modeling Product Engineer Intern, where I developed computational methods for photomask optimization, enhancing simulations for pre-silicon fabrication processes.
 
-My PhD research focuses on developing  Deep Learning Clasifiers, Neural Networks, for molecular dynamics and kinetic Monte Carlo simulations, enhancing simulations for semiconductor fabrication processes and epitaxial metal growth on semiconductors. I am also modeling the CO2 reduction reaction to carbon monoxide and formate using simulations. Additionally, I am committed to designing machine learning algorithms to explore applications of CO2 reduction reactions while reducing the computational power required for standard Density Functional Theory (DFT) calculations.
+My PhD research focuses on developing  Deep Learning Clasifiers, Neural Networks, for molecular dynamics and kinetic Monte Carlo simulations, enhancing simulations for semiconductor fabrication processes and epitaxial metal growth on semiconductors. 
+
+I am also modeling the CO2 reduction reaction to carbon monoxide and formate using simulations. Additionally, I am committed to designing machine learning algorithms to explore applications of CO2 reduction reactions while reducing the computational power required for standard Density Functional Theory (DFT) calculations.
 
 My proficiency extends to time-series analysis and forecasting, where I employ methodologies such as AR, ARIMA, and deep learning to extract valuable insights from data. As an accomplished Teaching Assistant with a track record of excellence in higher education, I have had the privilege of instructing both graduate and undergraduate courses at the University of Central Florida.
 
