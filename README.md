@@ -10,7 +10,7 @@ I am a **PhD Candidate** pursuing my PhD in **Computational Material Science** a
 
 ## Research Focus
 
-- Developing **Deep Learning Classifiers** and **Neural Networks** for molecular dynamics and kinetic Monte Carlo simulations, enhancing simulations for semiconductor fabrication processes and epitaxial metal growth on semiconductors.
+- Developing **Deep Learning Classifiers** and **Neural Networks** for molecular dynamics and kinetic Monte Carlo simulations, accelerating simulations for semiconductor fabrication processes and epitaxial metal growth on semiconductors.
 
 - Modeling the **CO2 reduction reaction** in the presence of metallic and non-metallic cations, simulating cathodes and developing voltage-stabilizing algorithms, showing that HCOO⁻ forms best via direct hydrogenation and CO via proton shuttling.
 
