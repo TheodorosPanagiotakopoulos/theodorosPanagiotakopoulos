@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PhD Candidate pursuing my PhD in Computational Material Science at the University of Central Florida, specializing in developing Machine Learning algorithms for nanotechnology and material design. 
+I am a **PhD** Candidate pursuing my PhD in Computational Material Science at the **University of Central Florida**, specializing in developing Machine Learning algorithms for nanotechnology and material design. 
 
 I worked at **ASML Silicon Valley** as a **Modeling Product Engineer Intern**, where I developed computational methods for photomask optimization and optimized simulation processes for pre-silicon fabrication to enhance efficiency.
 
