@@ -6,7 +6,7 @@ I am a **PhD Candidate** pursuing my PhD in **Computational Material Science** a
 
 ## Experience
 
-- **ASML Silicon Valley**: Worked as a Modeling Product Engineer Intern, where I developed computational methods for photomask optimization and optimized simulation processes for pre-silicon fabrication to reducing memory usage and runtime.
+- **ASML Silicon Valley**: Worked as a Modeling Product Engineer Intern, where I developed computational methods for photomask optimization and optimized simulation processes for pre-silicon fabrication reducing memory usage and runtime.
 
 ## Research Focus
 
