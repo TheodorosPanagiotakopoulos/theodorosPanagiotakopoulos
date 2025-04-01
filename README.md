@@ -14,6 +14,10 @@ I am a **PhD Candidate** pursuing my PhD in **Computational Material Science** a
 
 - Modeling the **CO2 reduction reaction** in the presence of metallic and non-metallic cations, simulating cathodes and developing voltage-stabilizing algorithms, showing that HCOO⁻ forms best via direct hydrogenation and CO via proton shuttling.
 
+- Simulating the Hydrogen **Evolution Reaction (HER)**, showing that non-metallic cations exhibit lower activation barriers than metallic ones for hydrogen production, and engineering custom cathode simulation code and voltage-stabilizing algorithms.
+
+- Engineering **ETL pipelines** for large-scale cleaning and preprocessing of simulation data, enabling efficient Data Analysis and facilitating meaningful result extraction.
+
 ## Teaching
 
 I have worked as a **teaching assistant** at the University of Central Florida, teaching electrodynamics at both the graduate and undergraduate levels.
