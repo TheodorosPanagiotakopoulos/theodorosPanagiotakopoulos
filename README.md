@@ -18,6 +18,8 @@ I am a **PhD Candidate** pursuing my PhD in **Computational Material Science** a
 
 - Engineering **ETL pipelines** for large-scale cleaning and preprocessing of simulation data, enabling efficient Data Analysis and facilitating meaningful result extraction.
 
+- Developing and maintaining **three Python libraries** for modeling fabrication systems, simulating electrochemical processes, and visualizing 3D simulation data in 2D.
+  
 ## Teaching
 
 I have worked as a **teaching assistant** at the University of Central Florida, teaching electrodynamics at both the graduate and undergraduate levels.
