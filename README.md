@@ -7,7 +7,8 @@ I am a **PhD Candidate** pursuing my PhD in **Computational Material Science** a
 ## Industry Experience  
 
 ### **ASML Silicon Valley (2025) – Modeling Product Engineer Intern**  
-- Built and deployed a **multithreaded/multiprocessing Python pipeline** to automate data ingestion, metric computation, and visualization, reducing manual analysis time by **80%** and accelerating CNN training and validation diagnostics.  
+- Built and deployed a **multithreaded/multiprocessing Python pipeline** to automate data ingestion, metric computation, and visualization, reducing manual analysis time by **80%** and accelerating CNN training and validation diagnostics.
+  
 - Engineered a **metric learning solution** using a Triplet Margin Loss encoder to generate image embeddings for visual similarity, and built a **cosine-similarity framework** that guided data reallocation, reducing overfitting, improving model generalization, and resulting in **customer adoption**.  
 
 ### **ASML Silicon Valley (2024) – Modeling Product Engineer Intern**  
