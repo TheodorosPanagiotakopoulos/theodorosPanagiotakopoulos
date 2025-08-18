@@ -4,17 +4,14 @@ Hi there! 👋
 
 I am a **PhD Candidate** pursuing my PhD in **Computational Material Science** at the University of Central Florida, specializing in developing **Machine Learning algorithms** for nanotechnology and material design.
 
-## Industry Experience
+## Industry Experience  
 
-- **ASML Silicon Valley**(2025): Worked as a Modeling Product Engineer Intern:
-  
-- Built and deployed a multithreaded/multiprocessing Python pipeline to automate data ingestion, metric computation, and visualization, reducing manual analysis time by 80% and accelerating CNN training and validation diagnostics.
-  
-- Engineered a metric learning solution using a Triplet Margin Loss encoder to generate image embeddings for visual similarity, and built a cosine-similarity framework that guided data reallocation, reducing overfitting, improving model generalization, and resulting in customer adoption.
-  
-- **ASML Silicon Valley**(2024): Worked as a Modeling Product Engineer
-  
--  Developed computational methods to optimize photomasks and enhanced simulation processes for pre-silicon fabrication, resulting in reduced memory usage and runtime.
+### **ASML Silicon Valley (2025) – Modeling Product Engineer Intern**  
+- Built and deployed a **multithreaded/multiprocessing Python pipeline** to automate data ingestion, metric computation, and visualization, reducing manual analysis time by **80%** and accelerating CNN training and validation diagnostics.  
+- Engineered a **metric learning solution** using a Triplet Margin Loss encoder to generate image embeddings for visual similarity, and built a **cosine-similarity framework** that guided data reallocation, reducing overfitting, improving model generalization, and resulting in **customer adoption**.  
+
+### **ASML Silicon Valley (2024) – Modeling Product Engineer Intern**  
+- Developed **computational methods** to optimize photomasks and enhanced simulation processes for pre-silicon fabrication, resulting in **reduced memory usage and runtime**.  
 
 ## Research at University of Central Florida
 
