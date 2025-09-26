@@ -7,9 +7,11 @@ I am a **PhD Candidate** pursuing my PhD in **Computational Material Science** a
 ## Industry Experience  
 
 ### **ASML Silicon Valley (2025) – Modeling Product Engineer Intern**  
-- Built and deployed a **multithreaded/multiprocessing Python pipeline** to automate data ingestion, metric computation, and visualization, reducing manual analysis time by **80%** and accelerating CNN training and validation diagnostics.
-  
-- Engineered a **Metric Learning** solution using a **Triplet Margin Loss encoder** to generate image embeddings for visual similarity, and built a cosine-similarity framework that guided data reallocation, reducing **overfitting and improving the generalization of Newron (ASML proprietary model)**, which led to customer adoption.
+- Engineered a **terabyte-scale CNN analysis pipeline**, scaling from **ThreadPoolExecutor** for I/O and **ProcessPoolExecutor** for compute to **Dask** to overcome DataFrame limits, cutting analysis time by **80%** and exposing critical overfitting.
+
+- Trained a **ResNet-18 from scratch in PyTorch** with **metric learning (triplet loss)** to remediate uncovered overfitting by detecting redundant or near-duplicate images and rebalancing the train/validation split, achieving **target performance**.
+
+- Implemented a **Physics-Informed Neural Network (PINN)** to solve the **2D Helmholtz equation**, achieving **high simulation accuracy** as a surrogate for traditional solvers.
 
 ### **ASML Silicon Valley (2024) – Modeling Product Engineer Intern**  
 - Developed **computational methods** to optimize photomasks and enhanced simulation processes for pre-silicon fabrication, resulting in **reduced memory usage and runtime**.  
