@@ -22,15 +22,28 @@ I am a **PhD Candidate** pursuing my PhD in **Computational Material Science** a
 
 ## Research at University of Central Florida
 
-- Developing **Deep Learning Classifiers** and **Neural Networks** for molecular dynamics and kinetic Monte Carlo simulations, accelerating simulations for semiconductor fabrication processes and epitaxial metal growth on semiconductors.
+- Engineered **numerical methods** to model complex system properties and predict critical thresholds, establishing a **high-fidelity baseline** for predictive modeling.
 
-- Modeling the **CO2 reduction reaction** in the presence of metallic and non-metallic cations, simulating cathodes and developing voltage-stabilizing algorithms, showing that HCOO⁻ forms best via direct hydrogenation and CO via proton shuttling.
+- Developed a **two-stage PyTorch framework** that delivered highly accurate **energy predictions** for large-scale systems beyond traditional simulations, pivotal in securing **NSF research funding**.
 
-- Simulating the Hydrogen **Evolution Reaction (HER)**, showing that non-metallic cations exhibit lower activation barriers than metallic ones for hydrogen production, and engineering custom cathode simulation code and voltage-stabilizing algorithms.
+- Implemented a **3D CNN in PyTorch** on **voxelized atomic data** to predict structural outcomes of deposition processes, accelerating simulations by producing accurate results in **seconds instead of hours**.
 
-- Engineering **ETL pipelines** for large-scale cleaning and preprocessing of simulation data, enabling efficient Data Analysis and facilitating meaningful result extraction.
+- Built a **Graph Neural Network (GNN) pipeline** for incomplete graphs, achieving **94% accuracy** on sparse data and reducing computational overhead in **material design simulations**.
 
-- Developing and maintaining **three Python libraries** for modeling fabrication systems, simulating electrochemical processes, and visualizing 3D simulation data in 2D.
+- Automated **data preprocessing, feature engineering, and model training** by designing **end-to-end ETL and ML pipelines** in Python and Bash, improving iteration speed.
+
+- Authored and maintained **three Python libraries** for **fabrication modeling, electrochemical simulations, and 3D-to-2D visualization**, adopted by **university engineering teams**.
+
+- Devised a **voltage-control algorithm** for electrochemical simulations, reducing computational costs while generating **high-fidelity data** for predictive modeling.
+
+- Established **analytical workflows** for complex **HPC simulation data**, uncovering novel **reaction mechanisms** and identifying root causes of enhanced **catalytic performance** in clean energy processes.
+
+- Designed and deployed an **end-to-end data pipeline** to evaluate **CO₂ reduction catalysts**, delivering key insights that guided experimental work and contributed to securing **DOE funding**.
+
+- Debugged and optimized **software for materials science applications** on **Linux-based HPC systems**, accelerating data processing and reducing time to results.
+
+- Created a centralized **SQL database** for **multi-GB simulation datasets**, improving data accessibility and accelerating validation across research teams.
+
   
 ## Teaching
 
