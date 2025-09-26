@@ -14,7 +14,11 @@ I am a **PhD Candidate** pursuing my PhD in **Computational Material Science** a
 - Implemented a **Physics-Informed Neural Network (PINN)** to solve the **2D Helmholtz equation**, achieving **high simulation accuracy** as a surrogate for traditional solvers.
 
 ### **ASML Silicon Valley (2024) – Modeling Product Engineer Intern**  
-- Developed **computational methods** to optimize photomasks and enhanced simulation processes for pre-silicon fabrication, resulting in **reduced memory usage and runtime**.  
+- Optimized a **geometric simulation parameter**, reducing **runtime 5%** and **memory usage 10%** in production software used by **ASML customers**.
+
+- Designed and executed **optimization experiments** for a core optical parameter, cutting **runtime 10%** and **memory usage 34%** in **ASML’s commercial release**.
+
+- Developed **Python libraries and ETL pipelines** adopted by **ASML’s product engineering teams**, standardizing large-scale simulation **data cleaning, preprocessing, and analysis**.
 
 ## Research at University of Central Florida
 
