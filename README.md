@@ -40,7 +40,7 @@ I am a **PhD Candidate** pursuing my PhD in **Computational Material Science** a
 
 - Designed and deployed an **end-to-end data pipeline** to evaluate **CO₂ reduction catalysts**, delivering key insights that guided experimental work and contributed to securing **DOE funding**.
 
-- Debugged and optimized **software for materials science applications** on **Linux-based HPC systems**, accelerating data processing and reducing time to results.
+- Engineered a **High-Performance C++ Solver**, using hierarchical parallelism with **Kokkos** and **TBB** and compile-time unit safety with **Boost.Units**, delivering strong scaling across **CPUs** and **GPUs**.
 
 - Created a centralized **SQL database** for **multi-GB simulation datasets**, improving data accessibility and accelerating validation across research teams.
 
