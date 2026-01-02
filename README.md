@@ -2,49 +2,46 @@
 
 Hi there! 👋
 
-I am a **PhD Candidate** pursuing my PhD in **Computational Material Science** at the University of Central Florida, specializing in developing **Machine Learning algorithms** for nanotechnology and material design.
+I **earned my PhD in Computational Material Science** at the **University of Central Florida**, specializing in developing **Machine Learning algorithms** for **nanotechnology** and **material design**.
 
 ## Industry Experience  
 
 ### **ASML Silicon Valley (2025) – Modeling Product Engineer Intern**  
 - Engineered a **terabyte-scale CNN analysis pipeline**, scaling from **ThreadPoolExecutor** for I/O and **ProcessPoolExecutor** for compute to **Dask** to overcome DataFrame limits, cutting analysis time by **80%** and exposing critical overfitting.
-
+  
 - Trained a **ResNet-18 from scratch in PyTorch** with **metric learning (triplet loss)** to remediate uncovered overfitting by detecting redundant or near-duplicate images and rebalancing the train/validation split, achieving **target performance**.
 
-- Implemented a **Physics-Informed Neural Network (PINN)** to solve the **2D Helmholtz equation**, achieving **high simulation accuracy** as a surrogate for traditional solvers.
+- Augmented the **ResNet-18** dataset by training a **U-Net denoising diffusion model** to generate **minority-class images**, improving **class balance** and **validation generalization**.
 
 ### **ASML Silicon Valley (2024) – Modeling Product Engineer Intern**  
+- Implemented a **Physics-Informed Neural Network (PINN)** to solve the **2D Helmholtz equation**, achieving **high simulation accuracy** as a surrogate for traditional solvers.
+
 - Optimized a **geometric simulation parameter**, reducing **runtime 5%** and **memory usage 10%** in production software used by **ASML customers**.
 
-- Designed and executed **optimization experiments** for a core optical parameter, cutting **runtime 10%** and **memory usage 34%** in **ASML’s commercial release**.
-
-- Developed **Python libraries and ETL pipelines** adopted by **ASML’s product engineering teams**, standardizing large-scale simulation **data cleaning, preprocessing, and analysis**.
+- Built **Python libraries** and **PySpark ETL pipelines** adopted by **ASML product engineering teams** to standardize **cleaning and preprocessing** of **400+ GB** of **simulation metadata**.
 
 ## Research at University of Central Florida
 
-- Engineered **numerical methods** to model complex system properties and predict critical thresholds, establishing a **high-fidelity baseline** for predictive modeling.
+- Developed a **two-stage PyTorch neural network surrogate** for **large-scale energy prediction** and **critical threshold identification**, trained on **high-fidelity baselines**, pivotal to securing **NSF funding**.
+- 
+- Implemented a **3D CNN** to predict **atomic deposition structures** from **voxelized data**, reducing simulation latency from **hours to seconds** and outperforming a self-implemented **3D Vision Transformer** baseline.
+- 
+- Trained a **3D U-Net denoising diffusion model** to synthesize **underrepresented voxelized deposition structures** for augmentation, improving **class/condition balance** and **3D CNN generalization**.
+- 
+- Orchestrated a distributed **PySpark pipeline** converting **10K+ atomic configurations** into **600K+ 3D voxel tensors**, eliminating **data-ingestion bottlenecks** for **3D CNN training**.
+- 
+- Built a **Graph Neural Network pipeline** for **incomplete graphs**, achieving **94% accuracy** on **sparse data** and reducing **computational overhead** in **material design simulations**.
+- 
+- Engineered a high-performance **C++ solver**, using **hierarchical parallelism** with **Kokkos** and **TBB** and **compile-time unit safety** with **Boost.Units**, delivering **strong scaling** across **CPUs** and **GPUs**.
+- 
+- Created a centralized **SQL database** for **multi-GB simulation datasets**, improving **data accessibility** and accelerating **validation** across **research teams**.
+- 
+- Authored and maintained **three Python libraries** for **fabrication modeling**, **electrochemical simulations**, and **3D-to-2D visualization**, adopted by **university engineering teams**.
+- 
+- Designed a **signal-processing pipeline** for **noisy electrochemical time-series** using **Savitzky–Golay smoothing** and **IQR rejection** to extract features, yielding results instrumental in **DOE funding**.
+- 
+- Integrated **multi-GB HPC simulation outputs** with cleaned **electrochemistry time-series** to engineer **high-dimensional features** for **predictive modeling**, improving robustness to **noise** and **sparsity**.
 
-- Developed a **two-stage PyTorch framework** that delivered highly accurate **energy predictions** for large-scale systems beyond traditional simulations, pivotal in securing **NSF research funding**.
-
-- Implemented a **3D CNN in PyTorch** on **voxelized atomic data** to predict structural outcomes of deposition processes, accelerating simulations by producing accurate results in **seconds instead of hours**.
-
-- Built a **Graph Neural Network (GNN) pipeline** for incomplete graphs, achieving **94% accuracy** on sparse data and reducing computational overhead in **material design simulations**.
-
-- Automated **data preprocessing, feature engineering, and model training** by designing **end-to-end ETL and ML pipelines** in Python and Bash, improving iteration speed.
-
-- Authored and maintained **three Python libraries** for **fabrication modeling, electrochemical simulations, and 3D-to-2D visualization**, adopted by **university engineering teams**.
-
-- Devised a **voltage-control algorithm** for electrochemical simulations, reducing computational costs while generating **high-fidelity data** for predictive modeling.
-
-- Established **analytical workflows** for complex **HPC simulation data**, uncovering novel **reaction mechanisms** and identifying root causes of enhanced **catalytic performance** in clean energy processes.
-
-- Designed and deployed an **end-to-end data pipeline** to evaluate **CO₂ reduction catalysts**, delivering key insights that guided experimental work and contributed to securing **DOE funding**.
-
-- Engineered a **High-Performance C++ Solver**, using hierarchical parallelism with **Kokkos** and **TBB** and compile-time unit safety with **Boost.Units**, delivering strong scaling across **CPUs** and **GPUs**.
-
-- Created a centralized **SQL database** for **multi-GB simulation datasets**, improving data accessibility and accelerating validation across research teams.
-
-  
 ## Teaching
 
 I have worked as a **teaching assistant** at the University of Central Florida, teaching electrodynamics at both the graduate and undergraduate levels.
