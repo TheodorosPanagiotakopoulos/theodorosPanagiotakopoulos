@@ -23,23 +23,23 @@ I **earned my PhD in Computational Material Science** at the **University of Cen
 ## Research at University of Central Florida
 
 - Developed a **two-stage PyTorch neural network surrogate** for **large-scale energy prediction** and **critical threshold identification**, trained on **high-fidelity baselines**, pivotal to securing **NSF funding**.
-- 
+  
 - Implemented a **3D CNN** to predict **atomic deposition structures** from **voxelized data**, reducing simulation latency from **hours to seconds** and outperforming a self-implemented **3D Vision Transformer** baseline.
-- 
+  
 - Trained a **3D U-Net denoising diffusion model** to synthesize **underrepresented voxelized deposition structures** for augmentation, improving **class/condition balance** and **3D CNN generalization**.
-- 
+  
 - Orchestrated a distributed **PySpark pipeline** converting **10K+ atomic configurations** into **600K+ 3D voxel tensors**, eliminating **data-ingestion bottlenecks** for **3D CNN training**.
-- 
+  
 - Built a **Graph Neural Network pipeline** for **incomplete graphs**, achieving **94% accuracy** on **sparse data** and reducing **computational overhead** in **material design simulations**.
-- 
+  
 - Engineered a high-performance **C++ solver**, using **hierarchical parallelism** with **Kokkos** and **TBB** and **compile-time unit safety** with **Boost.Units**, delivering **strong scaling** across **CPUs** and **GPUs**.
-- 
+  
 - Created a centralized **SQL database** for **multi-GB simulation datasets**, improving **data accessibility** and accelerating **validation** across **research teams**.
-- 
+  
 - Authored and maintained **three Python libraries** for **fabrication modeling**, **electrochemical simulations**, and **3D-to-2D visualization**, adopted by **university engineering teams**.
-- 
+  
 - Designed a **signal-processing pipeline** for **noisy electrochemical time-series** using **Savitzky–Golay smoothing** and **IQR rejection** to extract features, yielding results instrumental in **DOE funding**.
-- 
+  
 - Integrated **multi-GB HPC simulation outputs** with cleaned **electrochemistry time-series** to engineer **high-dimensional features** for **predictive modeling**, improving robustness to **noise** and **sparsity**.
 
 ## Teaching
