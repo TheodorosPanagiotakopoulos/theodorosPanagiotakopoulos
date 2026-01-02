@@ -6,14 +6,14 @@ I **earned my PhD in Computational Material Science** at the **University of Cen
 
 ## Industry Experience  
 
-### **ASML Silicon Valley (2025) – Modeling Product Engineer Intern**  
+### **ASML Silicon Valley (2025) - Modeling Product Engineer Intern**  
 - Engineered a **terabyte-scale CNN analysis pipeline**, scaling from **ThreadPoolExecutor** for I/O and **ProcessPoolExecutor** for compute to **Dask** to overcome DataFrame limits, cutting analysis time by **80%** and exposing critical overfitting.
   
 - Trained a **ResNet-18 from scratch in PyTorch** with **metric learning (triplet loss)** to remediate uncovered overfitting by detecting redundant or near-duplicate images and rebalancing the train/validation split, achieving **target performance**.
 
 - Augmented the **ResNet-18** dataset by training a **U-Net denoising diffusion model** to generate **minority-class images**, improving **class balance** and **validation generalization**.
 
-### **ASML Silicon Valley (2024) – Modeling Product Engineer Intern**  
+### **ASML Silicon Valley (2024) - Modeling Product Engineer Intern**  
 - Implemented a **Physics-Informed Neural Network (PINN)** to solve the **2D Helmholtz equation**, achieving **high simulation accuracy** as a surrogate for traditional solvers.
 
 - Optimized a **geometric simulation parameter**, reducing **runtime 5%** and **memory usage 10%** in production software used by **ASML customers**.
